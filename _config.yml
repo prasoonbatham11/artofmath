@@ -22,8 +22,8 @@ title: The Art of Math
 email: prasoonbatham@gmail.com
 # description: >-  hi my name's regan # this means to ignore newlines until "baseurl:"
 
-#baseurl: "/artofmath" # the subpath of your site, e.g. /blog
-#url: "https://prasoonbatham11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/artofmath" # the subpath of your site, e.g. /blog
+url: "https://prasoonbatham11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  prasoonbatham11
 
 #remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
