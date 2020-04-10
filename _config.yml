@@ -26,10 +26,10 @@ baseurl: "/artofmath" # the subpath of your site, e.g. /blog
 url: "https://prasoonbatham11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  prasoonbatham11
 
-remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+#remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
