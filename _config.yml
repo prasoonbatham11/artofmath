@@ -2,8 +2,8 @@ title: The Art of Math
 email: prasoonbatham@gmail.com
 description: >-
   The Art of Math deals with all things math, puzzles and project euler.
-baseurl: ""
-url: "https://prasoonbatham11.github.io/artofmath/"
+baseurl: "/artofmath"
+url: "artofmath"
 github_username:  prasoonbatham11
 
 # Build settings
