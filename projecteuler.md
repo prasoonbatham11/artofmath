@@ -20,6 +20,7 @@ description:
 | 10 |[Summation of primes](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler10.html)|[5%](https://projecteuler.net/problem=10)|[medium](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem)|
 | 11 |[Largest product in a grid](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler11.html)|[5%](https://projecteuler.net/problem=11)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem)|
 | 12 |[Highly divisible triangular number](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler12.html)|[5%](https://projecteuler.net/problem=12)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler012/problem)|
+| 13 |[Large sum](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler13.html)|[5%](https://projecteuler.net/problem=13)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem)|
 
 ## Profile Links
 
