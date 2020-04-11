@@ -15,3 +15,7 @@ layout: default
     Published on {{ page.date | date: "%B %e, %Y" }}
   </div>
 </article>
+
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
+{% endif %}
