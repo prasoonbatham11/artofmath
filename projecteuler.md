@@ -18,6 +18,7 @@ description:
 | 8 |[Largest product in a series](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler8.html)|[5%](https://projecteuler.net/problem=8)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem)|
 | 9 |[Special Pythagorean triplet](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler9.html)|[5%](https://projecteuler.net/problem=9)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem)|
 | 10 |[Summation of primes](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler10.html)|[5%](https://projecteuler.net/problem=10)|[medium](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem)|
+| 11 |[Largest product in a grid](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler11.html)|[5%](https://projecteuler.net/problem=11)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem)|
 
 ## Profile Links
 
