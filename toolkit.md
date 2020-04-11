@@ -4,6 +4,9 @@ title: Toolkit
 description:
 ---
 
+1. [gcd](#gcd)
+2. [sieve](#sieve-of-eratosthenes)
+
 # GCD
 
 ```java
