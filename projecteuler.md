@@ -22,6 +22,8 @@ description:
 | 12 |[Highly divisible triangular number](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler12.html)|[5%](https://projecteuler.net/problem=12)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler012/problem)|
 | 13 |[Large sum](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler13.html)|[5%](https://projecteuler.net/problem=13)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem)|
 | 14 |[Longest collatz sequence](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler14.html)|[5%](https://projecteuler.net/problem=14)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler014/problem)|
+| 15 |[Lattice paths](https://prasoonbatham11.github.io/artofmath/2020/04/12/euler15.html)|[5%](https://projecteuler.net/problem=15)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler015/problem)|
+| 16 |[Power digit sum](https://prasoonbatham11.github.io/artofmath/2020/04/13/euler16.html)|[5%](https://projecteuler.net/problem=16)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem)|
 
 ## Profile Links
 
