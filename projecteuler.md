@@ -24,6 +24,8 @@ description:
 | 14 |[Longest collatz sequence](https://prasoonbatham11.github.io/artofmath/2020/04/11/euler14.html)|[5%](https://projecteuler.net/problem=14)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler014/problem)|
 | 15 |[Lattice paths](https://prasoonbatham11.github.io/artofmath/2020/04/12/euler15.html)|[5%](https://projecteuler.net/problem=15)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler015/problem)|
 | 16 |[Power digit sum](https://prasoonbatham11.github.io/artofmath/2020/04/13/euler16.html)|[5%](https://projecteuler.net/problem=16)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem)|
+| 17 |[Number to Words](https://prasoonbatham11.github.io/artofmath/2020/04/15/euler17.html)|[5%](https://projecteuler.net/problem=17)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler017/problem)|
+| 18 |[Maximum path sum 1](https://prasoonbatham11.github.io/artofmath/2020/04/15/euler18.html)|[5%](https://projecteuler.net/problem=18)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler018/problem)|
 
 ## Profile Links
 
