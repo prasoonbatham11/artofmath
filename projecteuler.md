@@ -26,6 +26,8 @@ description:
 | 16 |[Power digit sum](https://prasoonbatham11.github.io/artofmath/2020/04/13/euler16.html)|[5%](https://projecteuler.net/problem=16)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem)|
 | 17 |[Number to Words](https://prasoonbatham11.github.io/artofmath/2020/04/15/euler17.html)|[5%](https://projecteuler.net/problem=17)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler017/problem)|
 | 18 |[Maximum path sum 1](https://prasoonbatham11.github.io/artofmath/2020/04/15/euler18.html)|[5%](https://projecteuler.net/problem=18)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler018/problem)|
+| 19 |[Counting Sundays](https://prasoonbatham11.github.io/artofmath/2020/04/18/euler19.html)|[5%](https://projecteuler.net/problem=19)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler019/problem)|
+| 20 |[Factorial digit sum](https://prasoonbatham11.github.io/artofmath/2020/04/18/euler20.html)|[5%](https://projecteuler.net/problem=20)|[easy](https://www.hackerrank.com/contests/projecteuler/challenges/euler020/problem)|
 
 ## Profile Links
 
